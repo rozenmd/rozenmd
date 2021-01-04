@@ -1,25 +1,29 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th>
-          <strong><a href="http://useeffectbyexample.com/">useEffectByExample.com</a></strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="http://useeffectbyexample.com/">
-            <img
-              height="386px"
-              width="243px"
-              alt="Learn useEffect By Example"
-              src="https://useeffectbyexample.com/img/useeffect-by-example-cover.png"
-            />
-          </a>
-        </td>        
-      </tr>
-    </tbody>
-  </table>
+<div>
+  <h1 align="center"><a href="https://useeffectbyexample.com">Learn useEffect By Example</a></h1>
+  <strong>
+    Get the hang of using useEffect like a pro, with useEffect By Example.
+  </strong>
+
+  <ul>
+    <li>
+      You'll learn how to use useEffect to fetch data, and avoid pesky race conditions. 
+    </li>
+    <li>
+      Take the guesswork out of using the dependency array, and keep the eslint-plugin happy.
+    </li>
+          <li>
+            Prevent infinite re-renders through the use of useCallback and useMemo. 
+    </li>
+  </ul>
+
+<p align="center">
+  <a href="http://useeffectbyexample.com/" align="center">
+    <img
+      height="386px"
+      width="243px"
+      alt="Learn useEffect By Example"
+      src="https://useeffectbyexample.com/img/useeffect-by-example-cover.png"
+    />
+  </a>
+  </div>
 </div>
