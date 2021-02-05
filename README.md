@@ -1,8 +1,6 @@
 <div>
   <h1 align="center"><a href="https://gumroad.com/l/useeffect-by-example">Learn useEffect By Example</a></h1>
-  <strong>
-    Get the hang of using useEffect like a pro, with useEffect By Example.
-  </strong>
+
 
 
 <p align="center">
