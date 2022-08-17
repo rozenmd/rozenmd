@@ -1,5 +1,22 @@
 <div>
-  <p>Hi! I'm Max. <span role="img" aria-label="Waving-hand emoji">👋</span></p>
-  <p>During normal business hours, I work at Cloudflare as a Software Engineer.</p>
-  <p>Outside of these hours, I'm the Founder, Developer, Designer, Customer Support, and Customer Success Manager of <a href="https://onlineornot.com">OnlineOrNot</a>, a service that monitors your websites, web apps, and APIs, reliably sending you notifications when things break.</p>
+ <p>
+    Hi!
+    <span role="img" aria-label="Waving-hand emoji">👋</span>
+    I'm Max Rozen. I'm also known as rozenmd around the internet.
+  </p>
+  <p>
+    I run <a href="https://onlineornot.com">OnlineOrNot</a> on the side, an
+    Incident Management service that provides uptime monitoring, extremely
+    performant
+    <a
+      href="https://onlineornot.com/status-pages"
+      target="_blank"
+      rel="noopener noreferer"
+      >status pages</a
+    >, and more.
+  </p>
+  <p>
+    These days I work at Cloudflare, helping build
+    <a href="https://github.com/cloudflare/wrangler2">wrangler2</a>.
+  </p>
 </div>
